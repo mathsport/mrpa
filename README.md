@@ -1,4 +1,5 @@
-# Management Reference Point Analyses for Sports Leagues
+# Management Reference Point Analysis
+### Using Sports Synthesis to determine reference points and performance indicators for the guided management of sports leagues.
 
 ## Abstract
 *Get this from previous submission.*
