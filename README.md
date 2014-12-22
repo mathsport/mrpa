@@ -1,4 +1,4 @@
-# Management Referece Point Analyses for Sporting Leagues
+# Management Reference Point Analyses for Sports Leagues
 
 ## Abstract
 *Get this from previous submission.*
